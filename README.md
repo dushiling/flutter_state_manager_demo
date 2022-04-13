@@ -1,0 +1,2 @@
+# flutter_state_manager_demo
+Flutter的Provider、Bloc、GetX三种状态管理的使用区分：以简单计数器为例，以及自定义状态管理框架。
